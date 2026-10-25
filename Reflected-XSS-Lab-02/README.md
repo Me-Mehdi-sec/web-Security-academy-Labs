@@ -15,6 +15,12 @@ Search function me user input encode nahi ho raha tha, jiski wajah se attacker k
 1. HTML Output Encoding
 2. Content Security Policy (CSP)
 3. Input Validation
+### Proof of Concept
+
+![Lab Proof](Screenshot%202026-10-15%20114150.png)
+
+> Lab successfully solved - alert(1) executed!
+   
 
 ### Learning
 Output encoding ka importance aur reflection points kaise find karte hain.
