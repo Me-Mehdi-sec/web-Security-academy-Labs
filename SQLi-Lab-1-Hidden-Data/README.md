@@ -19,7 +19,7 @@ This lab contains a SQL injection vulnerability in the product category filter. 
 An attacker can bypass application logic to retrieve sensitive data, including hidden products, user details, or other confidential information from the database.
 
 ## 📸 Proof of Concept (PoC)
-![SQLi Hidden Data](sqli-hidden.png)
+![SQLi-hidden.png](SQLi-hidden.png)
 
 ## 🛡️ Remediation (Fix)
 1. **Parameterized Queries:** Use prepared statements to ensure user input is treated as data, not code.
